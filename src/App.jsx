@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import UltimosLancamentos from './componentes/UltimosLancamentos';
 const AppContainer = styled.div`
     max-width: 100vw;
-    height: 140vh;
+    height: 130vh;
     background-image: linear-gradient(90deg,#002D52 35%,#326589);
 `
 
