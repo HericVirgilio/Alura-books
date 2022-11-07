@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Alura-books/static/js/main.6387239c.js",
+    "main.js": "/Alura-books/static/js/main.9a4a2390.js",
     "static/js/787.71001599.chunk.js": "/Alura-books/static/js/787.71001599.chunk.js",
     "static/media/code-geass.jpg": "/Alura-books/static/media/code-geass.8411fe0ff982bb2ffb09.jpg",
     "static/media/rakudai.jpg": "/Alura-books/static/media/rakudai.5a9501a3349f93c10b63.jpg",
@@ -11,10 +11,10 @@
     "static/media/perfil.svg": "/Alura-books/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
     "index.html": "/Alura-books/index.html",
     "static/media/logo.svg": "/Alura-books/static/media/logo.9c54b187c810fdc3ecca29269446898f.svg",
-    "main.6387239c.js.map": "/Alura-books/static/js/main.6387239c.js.map",
+    "main.9a4a2390.js.map": "/Alura-books/static/js/main.9a4a2390.js.map",
     "787.71001599.chunk.js.map": "/Alura-books/static/js/787.71001599.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6387239c.js"
+    "static/js/main.9a4a2390.js"
   ]
 }
